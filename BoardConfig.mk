@@ -114,5 +114,5 @@ TW_INPUT_BLACKLIST := "hbtp_vm"
 TW_USE_TOOLBOX := true
 TW_INCLUDE_REPACKTOOLS := true
 
-
+# system uses boot image
 BOARD_USES_RECOVERY_AS_BOOT := true
