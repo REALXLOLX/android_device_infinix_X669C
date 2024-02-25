@@ -20,6 +20,7 @@ AB_OTA_PARTITIONS += \
     vbmeta_vendor \
     system_ext \
     vendor
+# System uses boot image 
 BOARD_USES_RECOVERY_AS_BOOT := true
 
 # Architecture
