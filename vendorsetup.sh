@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo twrp_Infinix-X669C-user
-add_lunch_combo twrp_Infinix-X669C-userdebug
-add_lunch_combo twrp_Infinix-X669C-eng
+add_lunch_combo twrp_X669C-user
+add_lunch_combo twrp_X669C-userdebug
+add_lunch_combo twrp_X669C-eng
